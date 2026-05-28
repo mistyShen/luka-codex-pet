@@ -1,0 +1,8 @@
+{
+  "id": "luka-codex",
+  "displayName": "巡音流歌 Codex Pet",
+  "description": "一只安静优雅的粉色章鱼歌姬，在屏幕角落陪你写代码、看日志、检查结果。",
+  "spritesheetPath": "spritesheet.webp",
+  "name": "巡音流歌 Codex Pet",
+  "spritesheet": "spritesheet.webp"
+}

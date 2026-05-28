@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.venv-imagegen/
+app_runtime_backup/
+runs/
+dist/
+package/install-summary.json
+references/candidate_crops/
+references/debug_grid.png
+references/luka_reference_board.png
