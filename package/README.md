@@ -31,3 +31,5 @@ ${CODEX_HOME:-$HOME/.codex}/pets/luka-codex/
 ```
 
 The package works without modifying Codex. The runtime patch in `scripts/patch_codex_avatar_runtime.py` is optional.
+
+For reuse terms, see the repository-level `LICENSE` and `ASSET_LICENSE.md`.

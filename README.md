@@ -121,3 +121,9 @@ Rebuild outputs are written under `runs/luka-codex/`, and the final installable 
 - The motion pipeline uses transform-based frame generation from current action images, not cropped sprite strips.
 - Generated QA files include a contact sheet and per-frame validation when rebuilding.
 - The optional runtime patch is local-only and is not required just to install the pet package.
+
+## License
+
+- Code and project documentation are licensed under [LICENSE](/Users/a1234/Documents/coding/luka_pet/LICENSE).
+- Visual assets, the packaged pet payload, and rebuilt spritesheets are covered by [ASSET_LICENSE.md](/Users/a1234/Documents/coding/luka_pet/ASSET_LICENSE.md), not by MIT.
+- This repository is fan-made and does not grant any upstream character or trademark rights.
