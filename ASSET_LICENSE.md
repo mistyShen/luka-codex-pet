@@ -8,7 +8,7 @@ The MIT `LICENSE` in this repository applies to the software and documentation o
 
 - `scripts/`
 - `config/`
-- root-level project documentation such as `README.md`, `NEXT_STEPS.md`, and `PET_BRIEF.md`
+- root-level project documentation such as `README.md` and `PET_BRIEF.md`
 - documentation files under `package/` and `references/`
 
 The following files and directories are **not** licensed under MIT:
