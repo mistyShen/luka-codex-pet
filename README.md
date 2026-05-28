@@ -33,6 +33,14 @@ ${CODEX_HOME:-$HOME/.codex}/pets/luka-codex/
 
 After installing, restart or refresh Codex pets in the Codex app, then select `luka-codex` from Settings > Appearance > Pets.
 
+## Repository Layout
+
+The repository is split into two practical layers:
+
+- `package/` contains the prebuilt installable pet files for normal users.
+- `references/` and `scripts/` contain the source art inputs and rebuild pipeline for maintainers.
+- `runs/` is rebuild output and is intentionally not tracked in Git.
+
 ## Included Package
 
 The prebuilt package lives in `package/`:
@@ -112,3 +120,4 @@ Rebuild outputs are written under `runs/luka-codex/`, and the final installable 
 - This is an unofficial fan-made custom pet package.
 - The motion pipeline uses transform-based frame generation from current action images, not cropped sprite strips.
 - Generated QA files include a contact sheet and per-frame validation when rebuilding.
+- The optional runtime patch is local-only and is not required just to install the pet package.
